@@ -1,0 +1,27 @@
+body{ background-color: grey;
+}
+.h1{font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-size: 60px ;
+  color: black;
+  background-color: white;
+  text-align: center;
+  font-weight: bolder;
+  }
+
+.parrafo{
+  color: black;
+    font-family: Arial, Gadget, sans-serif;
+    font-size: small;
+    letter-spacing: 1px;
+  }
+.imagenes {
+  width: 400px;
+  border: black 5px solid;
+  margin-left: 40px;
+}
+.h2 {
+  color: black;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 25px;
+  font-weight: lighter;
+}

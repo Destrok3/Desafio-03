@@ -1,0 +1,71 @@
+body{
+  background-color: #289688;
+  text-align: center;
+}
+
+.h1{
+  text-align: center;
+  color: #fcea3e ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 60px;
+}
+
+.imagen-1{
+  width: 300px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-2{
+  width: 300px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-3{
+  width: 360px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-4{
+  width: 300px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-5{
+  width: 250px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-6{
+  width: 148px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-7{
+  width: 350px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-8{
+  width: 234px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-9{
+  width: 265px;
+  border: 12px solid #ffffff;
+  margin: 3px;
+}
+
+.imagen-10{
+  width: 265px;
+border: 12px solid #ffffff;
+  margin: 3px;
+}
